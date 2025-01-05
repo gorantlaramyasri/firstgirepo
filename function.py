@@ -198,7 +198,8 @@
 
 # print('ramya')   ==>git add . 2) git commit -m "message" 3) git push -u origin main
 
-num1 = 23
-num2 = 22
-num3 = num1+num2
-print(num3)
+# num1 = 23
+# num2 = 22
+# num3 = num1+num2
+# print(num3)
+
